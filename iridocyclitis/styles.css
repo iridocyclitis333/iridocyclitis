@@ -1,8 +1,0 @@
-.hero-gif {
-  width: min(280px, 70vw);
-  border-radius: 12px;
-  margin: 12px auto 18px;
-  display: block;
-  image-rendering: pixelated;
-  box-shadow: 0 14px 50px rgba(0, 0, 0, 0.6);
-}
